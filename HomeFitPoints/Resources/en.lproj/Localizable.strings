@@ -1,0 +1,156 @@
+/* 
+  Localizable.strings
+  HomeFitPoints
+
+  Created by Fabian Armenta on 18/11/25. */
+  
+ /* UI General */
+ "home_title" = "Home Workout";
+"progress_title" = "Your Progress";
+ "start_routine" = "Start Routine";
+ "next_exercise" = "Next";
+ "pause" = "Pause";
+ "resume" = "Resume";
+ "rest_title" = "Rest";
+ "skip_rest" = "Skip Rest";
+ "congrats_title" = "Congratulations!";
+"routine_completed_msg" = "Routine completed successfully!";
+ "points_earned" = "You earned %d points";
+ "go_home" = "Back to Home";
+ "exercises_list" = "Exercises included:";
+
+ /* Errors & Alerts */
+ "error_title" = "Attention";
+ "error_no_internet" = "No internet connection.";
+ "error_server" = "Server issues.";
+ "warning_data" = "You are using mobile data.";
+ "ok" = "OK";
+ "cancel" = "Cancel";
+"retry_button" = "Retry";
+"no_connection_desc" = "We can't load your routine without internet. Please check your WiFi or mobile data connection.";
+/* Mobile Data Alert */
+"warning_images_download" = "You are using mobile data.\nExercise images will be downloaded.";
+"continue_button" = "Continue";
+
+ /* Status */
+ "status_locked" = "Locked (%d pts needed)";
+ "status_available" = "Available";
+"profile_default_name" = "Fitness Guest";
+
+ /* Levels */
+ "level_beginner" = "Beginner Level";
+ "level_intermediate" = "Intermediate Level";
+ "level_advanced" = "Advanced Level";
+
+ /* Routines */
+ "routine_beginner_fullbody_5min_name" = "Full Body (5 min)";
+ "routine_beginner_fullbody_5min_desc" = "Activate your whole body quickly.";
+
+ "routine_beginner_core_10min_name" = "Basic Core (10 min)";
+ "routine_beginner_core_10min_desc" = "Strengthen abs and lower back.";
+
+ "routine_intermediate_strength_15min_name" = "Intermediate Strength";
+ "routine_intermediate_strength_15min_desc" = "Gain muscle with bodyweight.";
+
+ "routine_intermediate_cardio_10min_name" = "Fat Burn Cardio";
+ "routine_intermediate_cardio_10min_desc" = "Maximize your heart rate.";
+
+ "routine_advanced_fullbody_20min_name" = "Spartan Challenge";
+ "routine_advanced_fullbody_20min_desc" = "Experts only. Total endurance.";
+
+ /* Exercises Names */
+ "squats_name" = "Squats";
+ "pushups_name" = "Push-ups";
+ "plank_name" = "Plank";
+ "lunges_name" = "Lunges";
+ "burpees_name" = "Burpees";
+ "jumping_jacks_name" = "Jumping Jacks";
+ "situps_name" = "Sit-ups";
+ "mountain_climbers_name" = "Mountain Climbers";
+ "deadlift_name" = "Deadlift";
+ "benchpress_name" = "Bench Press";
+ "high_knees_name" = "High Knees";
+ "glute_bridge_name" = "Glute Bridge";
+
+ /* Exercises Descriptions */
+ "squats_desc" = "Keep back straight and go below parallel.";
+ "pushups_desc" = "Lower chest to floor keeping body rigid.";
+ "plank_desc" = "Hold static position engaging core.";
+ "lunges_desc" = "Step forward and lower back knee to ground.";
+ "burpees_desc" = "Push-up, jump, repeat. Total body.";
+ "jumping_jacks_desc" = "Jump opening legs and arms.";
+ "situps_desc" = "Lift torso using abdominal strength.";
+ "mountain_climbers_desc" = "Bring knees to chest in plank position.";
+ "deadlift_desc" = "Lift weight keeping neutral spine.";
+ "benchpress_desc" = "Push weight up from chest.";
+ "high_knees_desc" = "Run in place lifting knees high.";
+ "glute_bridge_desc" = "Lift hips squeezing glutes.";
+
+/* Motivational Messages */
+"msg_motiv_1" = "Incredible work! Every rep counts.";
+"msg_motiv_2" = "You did it! Today's effort is tomorrow's victory.";
+"msg_motiv_3" = "Routine complete. You're one step closer to your goal!";
+"msg_motiv_4" = "Congratulations! Your discipline is transforming you.";
+"msg_motiv_5" = "Keep it up! Your body and mind thank you for it.";
+
+/* Progress */
+"points_total" = "Total Points";
+"level_current" = "Current Level";
+"level_expert" = "Expert Level !";
+"level_max" = "Max level reached!";
+"points_missing" = "%d pts to next level";
+"chart_week" = "Your Week";
+"chart_favorites" = "Your Favorites";
+"empty_title" = "No data yet!";
+"empty_desc" = "Complete your first routine to see your stats here.";
+"btn_go_train" = "GO TRAIN";
+
+/* Days of week (Chart) */
+"day_sun" = "S";
+"day_mon" = "M";
+"day_tue" = "T";
+"day_wed" = "W";
+"day_thu" = "T";
+"day_fri" = "F";
+"day_sat" = "S";
+
+/* Profile */
+"profile_title" = "Profile";
+"profile_age" = "Age";
+"profile_weight" = "Weight";
+"profile_height" = "Height";
+"profile_goal" = "My Goal";
+"profile_login" = "Sign in or create account";
+"profile_edit" = "EDIT DATA";
+"profile_edit_title" = "Update Profile";
+"profile_name_ph" = "Your Name";
+"save" = "Save";
+
+"goal_weight" = "Lose Weight";
+"goal_muscle" = "Muscle";
+"goal_endurance" = "Endurance";
+"profile_ph_weight" = "Weight (kg)";
+"profile_ph_height" = "Height (cm)";
+
+
+/* Login */
+"login_title" = "Welcome Back";
+"signup_title" = "Create Account";
+"login_email_ph" = "Email address";
+"login_pass_ph" = "Password";
+"login_btn" = "Log In";
+"signup_btn" = "Sign Up";
+"login_toggle_signup" = "Don't have an account? Sign Up";
+"login_toggle_login" = "Already have an account? Log In";
+"login_error_empty" = "Please fill in all fields";
+"logout_btn" = "Log Out";
+"login_error_invalid_email" = "Invalid email format.";
+
+/* Firebase Errors */
+"auth_error_user_not_found" = "No account found with this email.";
+"auth_error_wrong_password" = "Incorrect password.";
+"auth_error_email_already_in_use" = "This email is already in use.";
+"auth_error_invalid_email" = "Invalid email format.";
+"auth_error_weak_password" = "Password is too weak.";
+"auth_error_generic" = "An error occurred. Please try again.";
+"auth_error_invalid_credential" = "Email or password is incorrect.";

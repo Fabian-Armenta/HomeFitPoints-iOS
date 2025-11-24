@@ -1,0 +1,156 @@
+/* 
+  Localizable.strings
+  HomeFitPoints
+
+  Created by Fabian Armenta on 18/11/25.
+  
+*/
+
+/* UI General */
+"home_title" = "Entrena en casa";
+"progress_title" = "Tu Progreso";
+"start_routine" = "Iniciar Rutina";
+"next_exercise" = "Siguiente";
+"pause" = "Pausar";
+"resume" = "Reanudar";
+"rest_title" = "Descanso";
+"skip_rest" = "Saltar descanso";
+"congrats_title" = "¡Felicidades!";
+"routine_completed_msg" = "¡Rutina completada con exito!";
+"points_earned" = "Has ganado %d puntos";
+"go_home" = "Volver al Inicio";
+"exercises_list" = "Ejercicios incluidos:";
+
+/* Errores y Alertas */
+"error_title" = "Atención";
+"error_no_internet" = "Sin conexión a internet.";
+"error_server" = "Problemas con el servidor.";
+"warning_data" = "Estás usando datos móviles. Esta acción consume datos.";
+"ok" = "OK";
+"cancel" = "Cancelar";
+"retry_button" = "Reintentar";
+"no_connection_desc" = "No podemos cargar tu rutina sin internet. Por favor verifica tu conexión WiFi o datos móviles.";
+/* Alerta Datos Móviles */
+"warning_images_download" = "Estás usando datos móviles.\nSe descargarán las imágenes de los ejercicios.";
+"continue_button" = "Continuar";
+
+/* Estados */
+"status_locked" = "Bloqueado (%d pts necesarios)";
+"status_available" = "Disponible";
+"profile_default_name" = "Invitado Fitness";
+
+/* Niveles (Coinciden con la API) */
+"level_beginner" = "Nivel Principiante";
+"level_intermediate" = "Nivel Intermedio";
+"level_advanced" = "Nivel Avanzado";
+
+/* Rutinas - Nombres y Descripciones (Coinciden con la API) */
+"routine_beginner_fullbody_5min_name" = "Cuerpo Completo (5 min)";
+"routine_beginner_fullbody_5min_desc" = "Activa todo tu cuerpo rápidamente.";
+
+"routine_beginner_core_10min_name" = "Core Básico (10 min)";
+"routine_beginner_core_10min_desc" = "Fortalece abdomen y espalda baja.";
+
+"routine_intermediate_strength_15min_name" = "Fuerza Intermedia";
+"routine_intermediate_strength_15min_desc" = "Gana músculo con peso corporal.";
+
+"routine_intermediate_cardio_10min_name" = "Cardio Quema-Grasa";
+"routine_intermediate_cardio_10min_desc" = "Eleva tu ritmo cardíaco al máximo.";
+
+"routine_advanced_fullbody_20min_name" = "Desafío Espartano";
+"routine_advanced_fullbody_20min_desc" = "Solo para expertos. Resistencia total.";
+
+/* Ejercicios - Nombres (Coinciden con la API) */
+"squats_name" = "Sentadillas";
+"pushups_name" = "Lagartijas";
+"plank_name" = "Plancha";
+"lunges_name" = "Zancadas";
+"burpees_name" = "Burpees";
+"jumping_jacks_name" = "Saltos de Tijera";
+"situps_name" = "Abdominales";
+"mountain_climbers_name" = "Escaladores";
+"deadlift_name" = "Peso Muerto";
+"benchpress_name" = "Press de Banca";
+"high_knees_name" = "Rodillas Altas";
+"glute_bridge_name" = "Puente de Glúteo";
+
+/* Ejercicios - Descripciones (Coinciden con la API) */
+"squats_desc" = "Mantén la espalda recta y baja hasta romper el paralelo.";
+"pushups_desc" = "Baja el pecho hasta el suelo manteniendo el cuerpo rígido.";
+"plank_desc" = "Mantén la posición estática apretando el abdomen.";
+"lunges_desc" = "Da un paso largo y baja la rodilla trasera hacia el suelo.";
+"burpees_desc" = "Flexión, salto y repite. El ejercicio total.";
+"jumping_jacks_desc" = "Salta abriendo piernas y brazos coordinadamente.";
+"situps_desc" = "Eleva el tronco usando la fuerza abdominal.";
+"mountain_climbers_desc" = "Lleva las rodillas al pecho en posición de plancha.";
+"deadlift_desc" = "Levanta el peso manteniendo la espalda neutra.";
+"benchpress_desc" = "Empuja el peso hacia arriba desde el pecho.";
+"high_knees_desc" = "Corre en el sitio elevando mucho las rodillas.";
+"glute_bridge_desc" = "Eleva la cadera contrayendo los glúteos al máximo.";
+
+/* Mensajes Motivacionales */
+"msg_motiv_1" = "¡Increíble trabajo! Cada repetición cuenta.";
+"msg_motiv_2" = "¡Lo lograste! El esfuerzo de hoy es la victoria de mañana.";
+"msg_motiv_3" = "Rutina completada. ¡Estás un paso más cerca de tu meta!";
+"msg_motiv_4" = "¡Felicidades! Tu disciplina te está transformando.";
+"msg_motiv_5" = "¡Sigue así! Tu cuerpo y tu mente te lo agradecen.";
+
+/* Progreso */
+"points_total" = "Puntos Totales";
+"level_current" = "Nivel Actual";
+"level_expert" = "¡Nivel Experto!";
+"level_max" = "¡Máximo nivel alcanzado!";
+"points_missing" = "Faltan %d pts para subir";
+"chart_week" = "Tu Semana";
+"chart_favorites" = "Tus Favoritos";
+"empty_title" = "¡Aún no hay datos!";
+"empty_desc" = "Completa tu primera rutina para ver tus estadísticas aquí.";
+"btn_go_train" = "IR A ENTRENAR";
+
+/* Días de la semana (Gráfica) */
+"day_sun" = "D";
+"day_mon" = "L";
+"day_tue" = "M";
+"day_wed" = "Mi"; 
+"day_thu" = "J";
+"day_fri" = "V";
+"day_sat" = "S";
+
+/* Perfil */
+"profile_title" = "Perfil";
+"profile_age" = "Edad";
+"profile_weight" = "Peso";
+"profile_height" = "Altura";
+"profile_goal" = "Mi Objetivo";
+"profile_login" = "Iniciar sesion o crear cuenta";
+"profile_edit" = "EDITAR DATOS";
+"profile_edit_title" = "Actualizar Perfil";
+"profile_name_ph" = "Tu Nombre";
+"save" = "Guardar";
+
+"goal_weight" = "Bajar Peso";
+"goal_muscle" = "Músculo";
+"goal_endurance" = "Resistencia";
+"profile_ph_weight" = "Peso (kg)";
+"profile_ph_height" = "Altura (cm)";
+
+/* Login */
+"login_title" = "Bienvenido";
+"signup_title" = "Crear Cuenta";
+"login_email_ph" = "Correo electrónico";
+"login_pass_ph" = "Contraseña";
+"login_btn" = "Iniciar Sesión";
+"signup_btn" = "Registrarse";
+"login_toggle_signup" = "¿No tienes cuenta? Regístrate";
+"login_toggle_login" = "¿Ya tienes cuenta? Inicia Sesión";
+"login_error_empty" = "Por favor llena todos los campos";
+"logout_btn" = "Cerrar Sesión";
+"login_error_invalid_email" = "El formato del correo no es válido.";
+/* Firebase Errores */
+"auth_error_user_not_found" = "No existe una cuenta con este correo.";
+"auth_error_wrong_password" = "La contraseña es incorrecta.";
+"auth_error_email_already_in_use" = "Este correo ya está registrado.";
+"auth_error_invalid_email" = "El formato del correo no es válido.";
+"auth_error_weak_password" = "La contraseña es muy débil.";
+"auth_error_generic" = "Ocurrió un error. Por favor, verifica tus datos e intenta de nuevo.";
+"auth_error_invalid_credential" = "El correo o la contraseña son incorrectos.";
