@@ -58,8 +58,13 @@ El proyecto está diseñado con una arquitectura escalable que permite la integr
 * **Notificaciones Push:** Recordatorios personalizados basados en los días de inactividad del usuario.
 * **Modo Social:** Tablas de clasificación (Leaderboards) para competir con amigos.
 
+### 8. Demo de la App
 
-### 8. Autoría
+Puedes ver el video del funcionamiento de la app en YouTube aquí:
+
+**[Ver video en YouTube](https://youtu.be/M8HLA3jx9uU)**
+
+### 9. Autoría
 **Desarrollado por:** Luis Fabian Armenta Chora
 
 **Curso:** Diplomado de Desarrollo de Aplicaciones para Dispositivos Móviles Emisión 14
